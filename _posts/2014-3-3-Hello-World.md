@@ -4,6 +4,7 @@ title: "Dùng gì để viết blog?"
 published: true
 ---
 
+
 ## Static hay Dynamic?
 
 Sau một hồi xem qua lại thì appa đã quyết định dùng Jekyll để viết blog cho Hải Phong và Hải Lâm.
