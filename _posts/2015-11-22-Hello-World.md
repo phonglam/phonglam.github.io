@@ -25,7 +25,8 @@ http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 Ngoài ra có thể cài theo hướng dẫn của [Github tại đây](https://help.github.com/articles/using-jekyll-with-pages/), khá là nhì nhằng.
 
 ## Customize
-- Hướng dẫn tuyệt vời nhất ở đây: [http://joshualande.com/jekyll-github-pages-poole/](của bác Joshua)
+- Hướng dẫn tuyệt vời nhất [của bác Joshua](http://joshualande.com/jekyll-github-pages-poole/)
+
 ## Cuối cùng, cách viết blog?
 
 ### Cú Pháp
