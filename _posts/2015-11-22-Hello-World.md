@@ -8,6 +8,7 @@ published: true
 
 
 
+
 Sau một hồi xem qua lại thì appa đã quyết định dùng Jekyll để viết blog cho Hải Phong và Hải Lâm.
 
 ## Static hay Dynamic?
@@ -23,6 +24,8 @@ http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 
 Ngoài ra có thể cài theo hướng dẫn của [Github tại đây](https://help.github.com/articles/using-jekyll-with-pages/), khá là nhì nhằng.
 
+## Customize
+- Hướng dẫn tuyệt vời nhất ở đây: [http://joshualande.com/jekyll-github-pages-poole/](của bác Joshua)
 ## Cuối cùng, cách viết blog?
 
 ### Cú Pháp
